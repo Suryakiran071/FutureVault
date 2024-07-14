@@ -50,3 +50,13 @@ body,html{
   color: white;
   background-color: rgb(104, 104, 255);
 }
+
+.signup button:hover{
+  width: 30%;
+  margin-top: 5px;
+  padding: 7px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(75, 75, 189);
+}

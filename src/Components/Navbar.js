@@ -45,12 +45,12 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/' className='nav-links' >
+                        <Link to='/Services' className='nav-links' >
                             Services
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/' className='nav-links' >
+                        <Link to='/Products' className='nav-links' >
                             Products
                         </Link>
                     </li>
